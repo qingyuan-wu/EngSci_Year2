@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/qingy/OneDrive/Documents/Year_2/ECE253/Labs
+vmux2to1
+!s110 1632969956
+!i10b 1
+!s100 J@mC;5]YI40:TA=e7?W:U3
+IAzge4M]@BadgOXkk<_m9E2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1632969237
+8mux2to1.v
+Fmux2to1.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1632969956.000000
+!s107 mux2to1.v|
+!s90 -reportprogress|300|mux2to1.v|
+!i113 1
+Z3 tCvgOpt 0
+vv7404
+Z4 !s110 1632969955
+!i10b 1
+!s100 LX^PRUG;<044WYe3cC1NE3
+IFd69`h:=ON_kDQhL[B<HK3
+R1
+R0
+w1632968610
+8v7404.v
+Fv7404.v
+L0 2
+R2
+r1
+!s85 0
+31
+Z5 !s108 1632969955.000000
+!s107 v7404.v|
+!s90 -reportprogress|300|v7404.v|
+!i113 1
+R3
+vv7408
+R4
+!i10b 1
+!s100 a66kKK9@3:>=6mRjUURAP2
+II>O>=Hk^j6]VBJg[Q>J6D1
+R1
+R0
+w1632969470
+8v7408.v
+Fv7408.v
+L0 2
+R2
+r1
+!s85 0
+31
+R5
+!s107 v7408.v|
+!s90 -reportprogress|300|v7408.v|
+!i113 1
+R3
+vv7432
+R4
+!i10b 1
+!s100 2?C]62KmLXO1=;=7G7elY1
+ISk_7C_PJjZXXLIUVB`nFd2
+R1
+R0
+w1632969950
+8v7432.v
+Fv7432.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 v7432.v|
+!s90 -reportprogress|300|v7432.v|
+!i113 1
+R3

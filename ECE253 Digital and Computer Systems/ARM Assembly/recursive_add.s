@@ -1,0 +1,26 @@
+.global _start
+_start:
+	LDR SP, =0x1000
+	LDR R1, =N
+	LDR R1, [R1]
+	BL FINDSUM
+	END: B END
+	
+FINDSUM:
+	PUSH {R1, LR}
+	CMP R1, #0
+	BNE RECUR
+BASECASE:
+	MOV R0, #0
+	B TRACE_BACK
+	
+RECUR:
+	SUB R1, #1
+	BL FINDSUM	
+TRACE_BACK:
+	POP {R1}
+	ADD R0, R1
+	POP {LR}
+	MOV PC, LR
+
+N: .word 6

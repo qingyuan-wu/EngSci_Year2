@@ -12,3 +12,8 @@ This repo contains some interesting lab projects and research papers completed i
 * PHY293:
   * Performed the **Franck-Hertz Experiment**
   * Examined **Wave Phenomena** such as diffraction and interference
+* CHE260:
+  * Conducted labs to investigate the Ideal Gas Law and the First Law of Thermodynamics
+* AER210:
+  * Conducted labs to analyze fluid flow
+  * Analyzed CFD and PIV simulations
